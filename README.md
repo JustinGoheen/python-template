@@ -24,7 +24,7 @@ In your code editor, search for `{ component_name }` and change to whatever you'
 
 > literally search for `{ component_name }`, not `component name`
 
-The search for `{ component_name }` should return 10 results in 5 files. One of those files is this README, the other four files must be changed, and are:
+The search for `{ component_name }` will return results in 5 files. One of those files is this README, the other four files must be changed, and are:
 
 - .lightning
 - pyproject.toml
