@@ -1,4 +1,4 @@
-# Lightning Component Template
+# Python Package and Lightning Component Template
 
 <!-- # Copyright Justin R. Goheen.
 #
@@ -20,6 +20,8 @@ To get started, copy the repo from the template then clone the repo to your loca
 
 ## Required Refactoring
 
+### Step 1
+
 In your code editor, search for `{ component_name }` and change to whatever you'd like to call your component e.g. lightning_component; please keep in mind this will be the name of the python package created with `pip install -e .`
 
 > literally search for `{ component_name }`, not `component name`
@@ -31,7 +33,13 @@ The search for `{ component_name }` will return results in 5 files. One of those
 - setup.cfg
 - setup.py
 
+### Step 2
+
 The file `.lightning` will be the name of your component in your Lightning Account, should you chose to upload it to Lightning Platform. The name of the component in this file can (and likely should) be different than the component name you choose for the package; however, this is entirely your decision.
+
+### Step 3
+
+The final change to make is for the package directory located at `src/{ component_name }`. Change this to the name you've used for the package in step 1.
 
 ## Setup
 
