@@ -14,7 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License. -->
 
-This repo is opinionated boilerplate for creating a Python package or [Lightning AI](https://lightning.ai) Apps [component](https://lightning.ai/components).
+This repo is opinionated boilerplate for creating a Python package or [Lightning AI](https://lightning.ai) models and components.
 
 To get started, copy the repo from the template then clone the repo to your local machine.
 
